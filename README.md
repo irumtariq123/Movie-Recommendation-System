@@ -41,16 +41,27 @@ Kaggle Datasets: Source for movie data
 The repository is organized as follows:
 
 ├── data/                          # Dataset files (movies.csv, credits.csv)
+
 ├── notebooks/                     # Jupyter notebooks for data exploration and model development
+
 │   ├── data_exploration.ipynb     # Data exploration and visualization
+
 │   ├── collaborative_filtering.ipynb # Building the recommendation model
+
 │   └── evaluation_metrics.ipynb   # Model evaluation
+
 ├── scripts/                       # Python scripts for the project
+
 │   ├── preprocess.py              # Data cleaning and preprocessing
+
 │   ├── recommend.py               # Recommendation system implementation
+
 │   └── evaluate.py                # Evaluation functions
+
 ├── visualizations/                # Generated plots and charts
+
 ├── README.md                      # Project description and details
+
 └── requirements.txt               # List of dependencies
 
 📝 Project Details
